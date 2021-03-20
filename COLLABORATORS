@@ -1,2 +1,4 @@
-//No Collaborators yet...
-
+https://stackoverflow.com/questions/15883568/reading-from-stdin | helped to read from stdin using read()
+https://stackoverflow.com/questions/19416047/c-character-count-from-a-file | helped understand logic to count char from a source
+http://www.cs.ecu.edu/karl/2530/spr17/Notes/C/String/nullterm.html | helped understand null terminated strings
+https://stackoverflow.com/questions/22793123/sorting-structure-with-c-qsort | helped understand how to use qsort
