@@ -8,6 +8,3 @@ I then sort this by using qsort.
 I then print the array of structs.
 
 This works effectively for one and two byte characters in file sizes up to 5 mb. This does not work for three and four byte characters.
-I could not find out why the autograder gave me such a hard time and would always say "could not execute correctly".
-
-A lot of time, research and energy went into this project and I hope for any credit I can get for the work that I have put in.
